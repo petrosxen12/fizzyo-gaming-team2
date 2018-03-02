@@ -8,8 +8,8 @@ An endless runner type of game where the user is a spaceship travelling through 
 Player is a spaceship that travels through a galaxy full of asteroids and occasionally can encountered larger objects such as planets. 
 
   Two Game Objectives:
-    - Survive by avoiding asteroids as long as possible.
-    - Collect as much tokens/coins as you can.
+  - Survive by avoiding asteroids as long as possible.
+  - Collect as much tokens/coins as you can.
 
 - The ship is in a binary state of moving left or right.
     - Device button changes the direction of motion. 
